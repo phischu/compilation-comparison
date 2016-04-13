@@ -593,11 +593,13 @@ growFront :: (PrimMonad m, MVector v a)
 growFront v by = ((Ck.checkLength "Data/Vector/Generic/Mutable.hs" 538) Ck.Bounds) "growFront" by
                $ unsafeGrowFront v by
 
+enlarge_delta v = max (length v) 1
+
 -- | Grow a vector logarithmically
 enlarge :: (PrimMonad m, MVector v a)
                 => v (PrimState m) a -> m (v (PrimState m) a)
 {-# INLINE enlarge #-}
-enlarge v = unsafeGrow v (max (length v) 1)
+enlarge v = unsafeGrow v (enlarge_delta v)
 
 enlargeFront :: (PrimMonad m, MVector v a)
                 => v (PrimState m) a -> m (v (PrimState m) a, Int)
@@ -606,7 +608,7 @@ enlargeFront v = do
                    v' <- unsafeGrowFront v by
                    return (v', by)
   where
-    by = max (length v) 1
+    by = enlarge_delta v
 
 -- | Grow a vector by the given number of elements. The number must be
 -- positive but this is not checked.
