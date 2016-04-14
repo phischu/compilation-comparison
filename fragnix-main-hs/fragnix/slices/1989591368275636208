@@ -1,0 +1,1 @@
+{"sliceID":1989591368275636208,"uses":[{"reference":{"builtinModule":"GHC.ForeignPtr"},"usedName":{"typeName":{"identifier":"ForeignPtr"}},"qualification":null}],"fragment":["newtype Semaphore = Semaphore (ForeignPtr ())"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

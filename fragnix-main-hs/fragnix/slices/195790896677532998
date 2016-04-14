@@ -1,0 +1,1 @@
+{"sliceID":195790896677532998,"uses":[{"reference":{"otherSlice":8642306666063513779},"usedName":{"typeName":{"identifier":"ByteString"}},"qualification":null}],"fragment":["type ZonedDate = ByteString"],"instances":[],"language":{"extensions":["OverloadedStrings","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

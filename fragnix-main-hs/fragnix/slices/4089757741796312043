@@ -1,0 +1,1 @@
+{"sliceID":4089757741796312043,"uses":[{"reference":{"builtinModule":"System.Posix.Types"},"usedName":{"typeName":{"identifier":"COff"}},"qualification":null}],"fragment":["newtype DirStreamOffset = DirStreamOffset COff"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

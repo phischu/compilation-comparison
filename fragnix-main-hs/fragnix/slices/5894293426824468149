@@ -1,0 +1,1 @@
+{"sliceID":5894293426824468149,"uses":[],"fragment":["data Inherited = Inherited"],"instances":[{"instanceID":9061626769009115079,"instancePart":"ForType"},{"instanceID":8571042035651278499,"instancePart":"ForType"}],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

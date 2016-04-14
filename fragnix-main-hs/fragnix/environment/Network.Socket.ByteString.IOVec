@@ -1,0 +1,1 @@
+[{"name":"IOVec","module":"4908725100123819519","entity":"data"},{"name":"IOVec","module":"4908725100123819519","type":"IOVec","entity":"constructor"},{"constructors":["IOVec"],"name":"iovBase","module":"4908725100123819519","type":"IOVec","entity":"selector"},{"constructors":["IOVec"],"name":"iovLen","module":"4908725100123819519","type":"IOVec","entity":"selector"}]

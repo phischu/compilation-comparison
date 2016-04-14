@@ -1,0 +1,1 @@
+{"sliceID":1154757088759663183,"uses":[],"fragment":["data TerminalState = Immediately\n                   | WhenDrained\n                   | WhenFlushed"],"instances":[],"language":{"extensions":["CApiFFI","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

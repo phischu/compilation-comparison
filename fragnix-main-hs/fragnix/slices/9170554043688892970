@@ -1,0 +1,1 @@
+{"sliceID":9170554043688892970,"uses":[{"reference":{"builtinModule":"GHC.Int"},"usedName":{"typeName":{"identifier":"Int32"}},"qualification":null}],"fragment":["type SmallInt = Int32"],"instances":[],"language":{"extensions":["FlexibleContexts","DefaultSignatures","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

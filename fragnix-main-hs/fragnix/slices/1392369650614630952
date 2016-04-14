@@ -1,0 +1,1 @@
+{"sliceID":1392369650614630952,"uses":[],"fragment":["data IPAddrSource = FromSocket\n                  | FromHeader\n                  | FromFallback"],"instances":[],"language":{"extensions":["OverloadedStrings","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":8584259664817214642,"uses":[],"fragment":["delay_inline :: (a -> b) -> a -> b","delay_inline f = f"],"instances":[],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

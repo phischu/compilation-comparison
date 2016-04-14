@@ -1,0 +1,1 @@
+{"sliceID":9014527119811434095,"uses":[],"fragment":["newtype Qr r a = Qr{unQr :: r -> r}"],"instances":[],"language":{"extensions":["RankNTypes","ScopedTypeVariables","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

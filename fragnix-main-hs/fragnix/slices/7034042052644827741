@@ -1,0 +1,1 @@
+{"sliceID":7034042052644827741,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["type Vertex = Int"],"instances":[],"language":{"extensions":["Rank2Types","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

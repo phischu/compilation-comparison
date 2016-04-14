@@ -1,0 +1,1 @@
+{"sliceID":8322847682023032058,"uses":[],"fragment":["type Catch e m a = m a -> (e -> m a) -> m a"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

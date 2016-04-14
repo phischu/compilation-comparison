@@ -1,0 +1,1 @@
+{"sliceID":6896713001335840810,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["tableCutoff :: Int","tableCutoff = 8"],"instances":[],"language":{"extensions":["BangPatterns","MagicHash","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

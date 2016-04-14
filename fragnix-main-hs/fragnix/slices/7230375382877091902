@@ -1,0 +1,1 @@
+{"sliceID":7230375382877091902,"uses":[{"reference":{"builtinModule":"GHC.Base"},"usedName":{"typeName":{"identifier":"String"}},"qualification":null}],"fragment":["type NumericAddress = String"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

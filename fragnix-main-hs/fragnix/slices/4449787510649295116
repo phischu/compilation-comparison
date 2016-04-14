@@ -1,0 +1,1 @@
+{"sliceID":4449787510649295116,"uses":[],"fragment":["data IsEmpty = IsEmpty\n             | NotEmpty"],"instances":[],"language":{"extensions":["BangPatterns","DeriveGeneric","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

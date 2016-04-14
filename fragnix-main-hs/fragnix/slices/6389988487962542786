@@ -1,0 +1,1 @@
+{"sliceID":6389988487962542786,"uses":[],"fragment":["data State workload = NoReaper\n                    | Workload workload"],"instances":[],"language":{"extensions":["RecordWildCards","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

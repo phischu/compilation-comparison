@@ -1,0 +1,1 @@
+{"sliceID":3609351370497760432,"uses":[],"fragment":["type CallCC m a b = ((a -> m b) -> m a) -> m a"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

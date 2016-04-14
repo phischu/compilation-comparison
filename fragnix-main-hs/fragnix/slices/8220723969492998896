@@ -1,0 +1,1 @@
+{"sliceID":8220723969492998896,"uses":[],"fragment":["intersperse :: a -> [a] -> [a]","intersperse _ [] = []\nintersperse sep (x : xs) = x : go xs\n  where go [] = []\n        go (y : ys) = sep : y : go ys"],"instances":[],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

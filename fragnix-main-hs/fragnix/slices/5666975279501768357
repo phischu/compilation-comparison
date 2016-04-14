@@ -1,0 +1,1 @@
+{"sliceID":5666975279501768357,"uses":[],"fragment":["data DecompressError = TruncatedInput\n                     | DictionaryRequired\n                     | DataError"],"instances":[],"language":{"extensions":["ForeignFunctionInterface","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":2152284110564700777,"uses":[{"reference":{"builtinModule":"Data.Data"},"usedName":{"typeName":{"identifier":"Data"}},"qualification":null}],"fragment":["type GenericQ r = forall a . Data a => a -> r"],"instances":[],"language":{"extensions":["RankNTypes","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":8252404075128885119,"uses":[{"reference":{"builtinModule":"GHC.Word"},"usedName":{"typeName":{"identifier":"Word8"}},"qualification":null}],"fragment":["cr :: Word8","cr = 13"],"instances":[],"language":{"extensions":["OverloadedStrings","BangPatterns","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

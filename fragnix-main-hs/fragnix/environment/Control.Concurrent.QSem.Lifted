@@ -1,0 +1,1 @@
+[{"name":"QSem","module":"Control.Concurrent.QSem","entity":"data"},{"name":"newQSem","module":"9114548933824807945","entity":"value"},{"name":"waitQSem","module":"6367444312968398714","entity":"value"},{"name":"signalQSem","module":"8394736766871619300","entity":"value"}]

@@ -1,0 +1,1 @@
+{"sliceID":1729583433124255084,"uses":[],"fragment":["data Status = Active\n            | Inactive"],"instances":[],"language":{"extensions":["BangPatterns","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

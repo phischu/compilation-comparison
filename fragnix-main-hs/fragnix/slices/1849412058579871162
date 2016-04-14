@@ -1,0 +1,1 @@
+{"sliceID":1849412058579871162,"uses":[{"reference":{"otherSlice":2152284110564700777},"usedName":{"typeName":{"identifier":"GenericQ"}},"qualification":null}],"fragment":["newtype GenericQ' r = GQ{unGQ :: GenericQ r}"],"instances":[],"language":{"extensions":["RankNTypes","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

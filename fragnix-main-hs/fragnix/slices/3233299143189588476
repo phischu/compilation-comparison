@@ -1,0 +1,1 @@
+{"sliceID":3233299143189588476,"uses":[],"fragment":["data QueueSelector = InputQueue\n                   | OutputQueue\n                   | BothQueues"],"instances":[],"language":{"extensions":["CApiFFI","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

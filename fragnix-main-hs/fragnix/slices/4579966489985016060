@@ -1,0 +1,1 @@
+{"sliceID":4579966489985016060,"uses":[],"fragment":["newtype M m x = M{unM :: x -> m x}"],"instances":[],"language":{"extensions":["RankNTypes","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

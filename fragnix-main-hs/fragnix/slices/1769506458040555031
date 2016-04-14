@@ -1,0 +1,1 @@
+{"sliceID":1769506458040555031,"uses":[],"fragment":["newtype ID x = ID{unID :: x}"],"instances":[],"language":{"extensions":["RankNTypes","ScopedTypeVariables","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

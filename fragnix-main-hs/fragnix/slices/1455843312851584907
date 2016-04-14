@@ -1,0 +1,1 @@
+{"sliceID":1455843312851584907,"uses":[],"fragment":["data Maybe2 a b = Nothing2\n                | Just2 a b"],"instances":[],"language":{"extensions":["DeriveDataTypeable","StandaloneDeriving","TypeFamilies","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

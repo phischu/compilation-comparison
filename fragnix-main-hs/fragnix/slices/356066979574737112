@@ -1,0 +1,1 @@
+{"sliceID":356066979574737112,"uses":[{"reference":{"otherSlice":7938598831398463423},"usedName":{"typeName":{"identifier":"BufSize"}},"qualification":null}],"fragment":["bufferSize :: BufSize","bufferSize = 4096"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}
