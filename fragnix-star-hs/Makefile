@@ -5,5 +5,5 @@ all:
 	du main
 
 clean:
-	rm -r fragnix/temp fragnix/slices fragnix/environment
+	rm -r fragnix/temp fragnix/slices fragnix/environment fragnix/cbits/*.o
 
