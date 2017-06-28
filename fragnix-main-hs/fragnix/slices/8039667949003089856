@@ -1,0 +1,1 @@
+{"sliceID":8039667949003089856,"uses":[{"reference":{"builtinModule":"GHC.Base"},"usedName":{"typeName":{"identifier":"Maybe"}},"qualification":null}],"fragment":["newtype ListT m a = ListT (m (Maybe (a, ListT m a)))"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

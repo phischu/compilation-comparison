@@ -1,1 +1,0 @@
-{"sliceID":2347921269375164416,"uses":[],"fragment":["newtype Q q x = Q{unQ :: x -> q}"],"instances":[],"language":{"extensions":["RankNTypes","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

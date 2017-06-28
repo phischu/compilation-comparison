@@ -1,1 +1,0 @@
-{"sliceID":4923910788515433777,"uses":[],"fragment":["data PairS a b = !a :*: !b","infixl 2 :*:"],"instances":[],"language":{"extensions":["BangPatterns","ExistentialQuantification","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

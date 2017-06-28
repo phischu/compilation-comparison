@@ -1,0 +1,1 @@
+{"sliceID":8325066591944117222,"uses":[],"fragment":["data Drop a s = NS !s\n              | JS !a !s"],"instances":[],"language":{"extensions":["BangPatterns","MagicHash","Rank2Types","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

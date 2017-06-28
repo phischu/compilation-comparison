@@ -1,0 +1,1 @@
+{"sliceID":7263682089005014248,"uses":[{"reference":{"builtinModule":"GHC.IO.Handle.Types"},"usedName":{"typeName":{"identifier":"Handle"}},"qualification":"IO"}],"fragment":["newtype ReadHandle = ReadHandle IO.Handle"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

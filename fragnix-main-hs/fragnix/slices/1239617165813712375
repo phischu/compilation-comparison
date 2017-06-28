@@ -1,0 +1,1 @@
+{"sliceID":1239617165813712375,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["defaultDynamicTableSize :: Int","defaultDynamicTableSize = 4096"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

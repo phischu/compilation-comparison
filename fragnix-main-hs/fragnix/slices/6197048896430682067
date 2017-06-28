@@ -1,1 +1,0 @@
-{"sliceID":6197048896430682067,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Char"}},"qualification":null}],"fragment":["badCharacters :: [Char]","badCharacters = \":*?><|\\\"\""],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":8161822527961857204,"uses":[{"reference":{"builtinModule":"Foreign.C.Types"},"usedName":{"typeName":{"identifier":"CUInt"}},"qualification":null}],"fragment":["type CMajor = CUInt"],"instances":[],"language":{"extensions":["ForeignFunctionInterface","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":3763678114540243998,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["type StreamId = Int"],"instances":[],"language":{"extensions":["DeriveDataTypeable","OverloadedStrings","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

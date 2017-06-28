@@ -1,0 +1,1 @@
+{"sliceID":884597495269511208,"uses":[{"reference":{"builtinModule":"System.Posix.Types"},"usedName":{"typeName":{"identifier":"CPid"}},"qualification":null}],"fragment":["type PHANDLE = CPid"],"instances":[],"language":{"extensions":["RecordWildCards","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

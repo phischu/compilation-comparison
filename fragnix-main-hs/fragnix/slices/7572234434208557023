@@ -1,0 +1,1 @@
+{"sliceID":7572234434208557023,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"IO"}},"qualification":null}],"fragment":["type TimeoutAction = IO ()"],"instances":[],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,1 +1,0 @@
-{"sliceID":5468442690029507861,"uses":[],"fragment":["type CTermios = ()"],"instances":[],"language":{"extensions":["CApiFFI","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

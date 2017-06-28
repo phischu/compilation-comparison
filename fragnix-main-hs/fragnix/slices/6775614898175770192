@@ -1,0 +1,1 @@
+{"sliceID":6775614898175770192,"uses":[],"fragment":["data MaybeS a = NothingS\n              | JustS !a"],"instances":[{"instanceID":8134422239127372388,"instancePart":"ForTypeOfBuiltinClass"}],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

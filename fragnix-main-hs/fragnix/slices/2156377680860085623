@@ -1,0 +1,1 @@
+{"sliceID":2156377680860085623,"uses":[{"reference":{"builtinModule":"GHC.Word"},"usedName":{"typeName":{"identifier":"Word8"}},"qualification":null}],"fragment":["type Takes1Byte g = Word8 -> g"],"instances":[],"language":{"extensions":["DeriveDataTypeable","TypeFamilies","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

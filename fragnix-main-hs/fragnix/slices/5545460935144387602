@@ -1,1 +1,0 @@
-{"sliceID":5545460935144387602,"uses":[],"fragment":["data WeekType = ISOWeek\n              | SundayWeek\n              | MondayWeek"],"instances":[],"language":{"extensions":["Rank2Types","DeriveDataTypeable","StandaloneDeriving","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

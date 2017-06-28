@@ -1,1 +1,0 @@
-{"sliceID":1248780238591530485,"uses":[],"fragment":["data M a = N\n         | J !a"],"instances":[],"language":{"extensions":["BangPatterns","ExistentialQuantification","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

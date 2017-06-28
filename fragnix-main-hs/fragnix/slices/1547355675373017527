@@ -1,0 +1,1 @@
+{"sliceID":1547355675373017527,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["maxTokenIx :: Int","maxTokenIx = 54"],"instances":[],"language":{"extensions":["OverloadedStrings","BangPatterns","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

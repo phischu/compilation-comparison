@@ -1,0 +1,1 @@
+{"sliceID":1350312861518069942,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["type Hash = Int"],"instances":[],"language":{"extensions":["RecordWildCards","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

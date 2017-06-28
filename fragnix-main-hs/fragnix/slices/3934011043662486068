@@ -1,0 +1,1 @@
+{"sliceID":3934011043662486068,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Char"}},"qualification":null}],"fragment":["extSeparator :: Char","extSeparator = '.'"],"instances":[],"language":{"extensions":["PatternGuards","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll"],"isInstance":false}}

@@ -1,1 +1,0 @@
-{"sliceID":3271949581132027504,"uses":[{"reference":{"otherSlice":8642306666063513779},"usedName":{"typeName":{"identifier":"ByteString"}},"qualification":"B"}],"fragment":["type Method = B.ByteString"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

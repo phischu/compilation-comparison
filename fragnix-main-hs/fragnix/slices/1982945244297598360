@@ -1,1 +1,0 @@
-{"sliceID":1982945244297598360,"uses":[{"reference":{"builtinModule":"GHC.Real"},"usedName":{"typeName":{"identifier":"Integral"}},"qualification":null}],"fragment":["x :: Integral a => a","x = 255"],"instances":[],"language":{"extensions":["BangPatterns","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,1 +1,0 @@
-{"sliceID":9170931709829936655,"uses":[],"fragment":["first :: (a -> c) -> (a, b) -> (c, b)","first f (x, y) = (f x, y)"],"instances":[],"language":{"extensions":["MagicHash","DeriveDataTypeable","StandaloneDeriving","ScopedTypeVariables","TypeFamilies","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

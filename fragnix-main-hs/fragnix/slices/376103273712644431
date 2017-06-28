@@ -1,0 +1,1 @@
+{"sliceID":376103273712644431,"uses":[{"reference":{"otherSlice":5027813816827734197},"usedName":{"typeName":{"identifier":"Header"}},"qualification":null}],"fragment":["type HeaderList = [Header]"],"instances":[],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

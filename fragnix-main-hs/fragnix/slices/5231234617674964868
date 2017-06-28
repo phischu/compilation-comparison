@@ -1,0 +1,1 @@
+{"sliceID":5231234617674964868,"uses":[],"fragment":["data State = Active\n           | Inactive\n           | Paused\n           | Canceled"],"instances":[],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

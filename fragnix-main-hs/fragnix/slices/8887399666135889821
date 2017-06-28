@@ -1,0 +1,1 @@
+{"sliceID":8887399666135889821,"uses":[],"fragment":["data Snoc a = N\n            | J !a"],"instances":[],"language":{"extensions":["BangPatterns","MagicHash","Rank2Types","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

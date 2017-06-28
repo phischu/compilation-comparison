@@ -1,0 +1,1 @@
+{"sliceID":1011810082878350731,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"IO"}},"qualification":null}],"fragment":["type Refresh = IO ()"],"instances":[],"language":{"extensions":["BangPatterns","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

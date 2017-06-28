@@ -1,0 +1,1 @@
+{"sliceID":8595448278676659189,"uses":[],"fragment":["data FlowAction = SuspendOutput\n                | RestartOutput\n                | TransmitStop\n                | TransmitStart"],"instances":[],"language":{"extensions":["CApiFFI","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

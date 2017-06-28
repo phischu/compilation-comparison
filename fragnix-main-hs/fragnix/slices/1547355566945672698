@@ -1,1 +1,0 @@
-{"sliceID":1547355566945672698,"uses":[],"fragment":["newtype CONST c a = CONST{unCONST :: c}"],"instances":[],"language":{"extensions":["RankNTypes","ScopedTypeVariables","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,1 +1,0 @@
-{"sliceID":7086220890294693934,"uses":[],"fragment":["data CompressionStrategy = DefaultStrategy\n                         | Filtered\n                         | HuffmanOnly"],"instances":[],"language":{"extensions":["ForeignFunctionInterface","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":7609337564022974199,"uses":[{"reference":{"otherSlice":7697765269862341363},"usedName":{"typeName":{"identifier":"Unique"}},"qualification":null}],"fragment":["newtype Key s a = Key Unique"],"instances":[],"language":{"extensions":["RoleAnnotations","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

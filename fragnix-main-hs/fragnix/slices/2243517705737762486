@@ -1,1 +1,0 @@
-{"sliceID":2243517705737762486,"uses":[],"fragment":["type Pass w m a = m (a, w -> w) -> m a"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

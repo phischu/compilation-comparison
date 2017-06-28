@@ -1,1 +1,0 @@
-{"sliceID":3497052750628647969,"uses":[],"fragment":["data State = Active\n           | Inactive\n           | Paused\n           | Canceled"],"instances":[],"language":{"extensions":["DeriveDataTypeable","MagicHash","UnboxedTuples","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

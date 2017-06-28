@@ -1,0 +1,1 @@
+{"sliceID":1034352972766209765,"uses":[],"fragment":["data ClosedStream = ClosedStream"],"instances":[{"instanceID":6791168674358262223,"instancePart":"ForType"},{"instanceID":1494020141881613821,"instancePart":"ForType"}],"language":{"extensions":["DeriveDataTypeable","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

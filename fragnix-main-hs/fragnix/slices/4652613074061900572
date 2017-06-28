@@ -1,1 +1,0 @@
-{"sliceID":4652613074061900572,"uses":[],"fragment":["newtype A a c d = A{unA :: a -> (a, c d)}"],"instances":[],"language":{"extensions":["RankNTypes","ScopedTypeVariables","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

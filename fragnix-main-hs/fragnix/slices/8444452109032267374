@@ -1,0 +1,1 @@
+{"sliceID":8444452109032267374,"uses":[{"reference":{"builtinModule":"Foreign.C.Types"},"usedName":{"typeName":{"identifier":"CInt"}},"qualification":null}],"fragment":["c_AT_FDCWD :: CInt","c_AT_FDCWD = (-100)"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

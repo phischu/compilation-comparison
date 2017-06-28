@@ -1,1 +1,0 @@
-{"sliceID":4403806992152239558,"uses":[],"fragment":["data SPEC = SPEC\n          | SPEC2"],"instances":[],"language":{"extensions":["DeriveDataTypeable","ExistentialQuantification","Rank2Types","BangPatterns","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

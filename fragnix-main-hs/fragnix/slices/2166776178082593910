@@ -1,0 +1,1 @@
+{"sliceID":2166776178082593910,"uses":[],"fragment":["data StrictTriple a b c = StrictTriple !a !b !c"],"instances":[],"language":{"extensions":["BangPatterns","PatternGuards","DeriveDataTypeable","StandaloneDeriving","RoleAnnotations","TypeFamilies","MagicHash","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll"],"isInstance":false}}

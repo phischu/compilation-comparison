@@ -1,1 +1,0 @@
-{"sliceID":1270656924308839628,"uses":[],"fragment":["data MaybeS a = NothingS\n              | JustS !a"],"instances":[],"language":{"extensions":["DeriveDataTypeable","StandaloneDeriving","RoleAnnotations","TypeFamilies","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,1 +1,0 @@
-{"sliceID":3404542530156388878,"uses":[{"reference":{"otherSlice":7034042052644827741},"usedName":{"typeName":{"identifier":"Vertex"}},"qualification":null}],"fragment":["type Edge = (Vertex, Vertex)"],"instances":[],"language":{"extensions":["Rank2Types","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

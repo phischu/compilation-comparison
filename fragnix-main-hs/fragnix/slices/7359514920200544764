@@ -1,1 +1,0 @@
-{"sliceID":7359514920200544764,"uses":[],"fragment":["data Split t a = Split t a t"],"instances":[],"language":{"extensions":["DeriveDataTypeable","StandaloneDeriving","TypeFamilies","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+{"sliceID":7182175007062029444,"uses":[],"fragment":["second :: (b -> c) -> (a, b) -> (a, c)","second f (a, b) = (a, f b)"],"instances":[],"language":{"extensions":["BangPatterns","MagicHash","Rank2Types","UnboxedTuples","TypeFamilies","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

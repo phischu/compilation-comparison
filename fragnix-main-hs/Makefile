@@ -5,4 +5,4 @@ all:
 	du main
 
 clean:
-	rm -r main fragnix/temp
+	rm -r main fragnix/temp fragnix/cbits/*.o

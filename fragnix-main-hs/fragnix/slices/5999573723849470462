@@ -1,1 +1,0 @@
-{"sliceID":5999573723849470462,"uses":[],"fragment":["data Switch = S1\n            | S2"],"instances":[],"language":{"extensions":["BangPatterns","ExistentialQuantification","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

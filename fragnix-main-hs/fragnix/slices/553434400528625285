@@ -1,0 +1,1 @@
+{"sliceID":553434400528625285,"uses":[],"fragment":["data FdOption = AppendOnWrite\n              | CloseOnExec\n              | NonBlockingRead\n              | SynchronousWrites"],"instances":[],"language":{"extensions":["CApiFFI","NondecreasingIndentation","RecordWildCards","MultiParamTypeClasses","ExplicitForAll","PatternGuards"],"isInstance":false}}

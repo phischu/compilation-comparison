@@ -1,1 +1,0 @@
-{"sliceID":7620557322552319683,"uses":[],"fragment":["newtype T x = T{unT :: x -> x}"],"instances":[],"language":{"extensions":["RankNTypes","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

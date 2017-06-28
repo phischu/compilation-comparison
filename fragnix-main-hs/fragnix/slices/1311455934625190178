@@ -1,0 +1,1 @@
+{"sliceID":1311455934625190178,"uses":[],"fragment":["data Justify i s = Just1 !i !s\n                 | Just2 !i !s"],"instances":[],"language":{"extensions":["BangPatterns","MagicHash","Rank2Types","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

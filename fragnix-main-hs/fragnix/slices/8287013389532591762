@@ -1,1 +1,0 @@
-{"sliceID":8287013389532591762,"uses":[],"fragment":["type CRegex = ()"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","FunctionalDependencies","ForeignFunctionInterface","GeneralizedNewtypeDeriving","FlexibleContexts","TypeSynonymInstances","FlexibleInstances","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

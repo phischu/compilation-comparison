@@ -1,0 +1,1 @@
+{"sliceID":7749509854478802055,"uses":[{"reference":{"otherSlice":7389546611860818570},"usedName":{"typeName":{"identifier":"B"}},"qualification":null}],"fragment":["type Bits = [B]"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

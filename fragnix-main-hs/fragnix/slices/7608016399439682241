@@ -1,1 +1,0 @@
-{"sliceID":7608016399439682241,"uses":[{"reference":{"builtinModule":"GHC.Word"},"usedName":{"typeName":{"identifier":"Word32"}},"qualification":null}],"fragment":["type IPv4Addr = Word32"],"instances":[],"language":{"extensions":["DeriveGeneric","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

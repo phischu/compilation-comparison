@@ -1,0 +1,1 @@
+{"sliceID":4135024097093880496,"uses":[],"fragment":["data Flush = NoFlush\n           | SyncFlush\n           | FullFlush\n           | Finish"],"instances":[],"language":{"extensions":["ForeignFunctionInterface","DeriveDataTypeable","DeriveGeneric","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

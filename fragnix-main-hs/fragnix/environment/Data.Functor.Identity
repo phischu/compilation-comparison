@@ -1,1 +1,0 @@
-[{"name":"Identity","module":"7632135482993295932","entity":"newtype"},{"name":"Identity","module":"7632135482993295932","type":"Identity","entity":"constructor"},{"constructors":["Identity"],"name":"runIdentity","module":"7632135482993295932","type":"Identity","entity":"selector"}]

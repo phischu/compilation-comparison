@@ -1,0 +1,1 @@
+{"sliceID":5735755275380532822,"uses":[],"fragment":["newtype Builder a = Builder ([a] -> [a])"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

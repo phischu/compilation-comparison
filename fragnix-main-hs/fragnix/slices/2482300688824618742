@@ -1,0 +1,1 @@
+{"sliceID":2482300688824618742,"uses":[{"reference":{"otherSlice":4010822550476529195},"usedName":{"typeName":{"identifier":"ByteString"}},"qualification":null}],"fragment":["type GMTDate = ByteString"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

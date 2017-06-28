@@ -1,1 +1,0 @@
-{"sliceID":8545063384279257089,"uses":[],"fragment":["data LockRequest = ReadLock\n                 | WriteLock\n                 | Unlock"],"instances":[],"language":{"extensions":["NondecreasingIndentation","RecordWildCards","MultiParamTypeClasses","ExplicitForAll","PatternGuards"],"isInstance":false}}

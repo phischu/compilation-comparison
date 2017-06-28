@@ -1,0 +1,1 @@
+{"sliceID":787637585457186905,"uses":[{"reference":{"builtinModule":"GHC.IO.FD"},"usedName":{"typeName":{"identifier":"FD"}},"qualification":"POSIX"}],"fragment":["type FD = POSIX.FD"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,0 +1,1 @@
+[{"name":"CTimespec","module":"855921018955722535","entity":"data"},{"name":"MkCTimespec","module":"855921018955722535","type":"CTimespec","entity":"constructor"},{"name":"clock_gettime","module":"873187079558517386","entity":"value"},{"name":"getCTimespec","module":"663554444374833148","entity":"value"}]

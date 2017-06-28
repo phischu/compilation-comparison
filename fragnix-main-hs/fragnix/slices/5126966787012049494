@@ -1,1 +1,0 @@
-{"sliceID":5126966787012049494,"uses":[],"fragment":["type Success a f r = a -> f r"],"instances":[],"language":{"extensions":["DeriveDataTypeable","GeneralizedNewtypeDeriving","Rank2Types","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

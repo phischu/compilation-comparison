@@ -1,0 +1,1 @@
+{"sliceID":319140865567561707,"uses":[],"fragment":["newtype Sequ a = Sequ ([a] -> [a])"],"instances":[],"language":{"extensions":["BangPatterns","DeriveFoldable","DeriveFunctor","DeriveTraversable","ScopedTypeVariables","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

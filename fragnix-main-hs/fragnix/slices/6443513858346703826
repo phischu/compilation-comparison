@@ -1,0 +1,1 @@
+{"sliceID":6443513858346703826,"uses":[],"fragment":["type Catch e m a = m a -> (e -> m a) -> m a"],"instances":[],"language":{"extensions":["PolyKinds","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

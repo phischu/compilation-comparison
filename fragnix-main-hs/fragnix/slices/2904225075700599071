@@ -1,0 +1,1 @@
+{"sliceID":2904225075700599071,"uses":[{"reference":{"otherSlice":3132368429558572572},"usedName":{"typeName":{"identifier":"FileStatus"}},"qualification":"Posix"}],"fragment":["type Metadata = Posix.FileStatus"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

@@ -1,1 +1,1 @@
-[{"name":"MonadBase","module":"258623574683819691","entity":"class"},{"name":"liftBase","module":"258623574683819691","entity":"method","class":"MonadBase"},{"name":"liftBaseDefault","module":"6206873595182632194","entity":"value"}]
+[{"name":"MonadBase","module":"6878074443746499463","entity":"class"},{"name":"liftBase","module":"6878074443746499463","entity":"method","class":"MonadBase"},{"name":"liftBaseDefault","module":"3065145675991738048","entity":"value"}]

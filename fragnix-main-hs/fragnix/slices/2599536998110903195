@@ -1,0 +1,1 @@
+{"sliceID":2599536998110903195,"uses":[{"reference":{"builtinModule":"GHC.Real"},"usedName":{"typeName":{"identifier":"Rational"}},"qualification":null}],"fragment":["appPrec :: Rational","appPrec = 10"],"instances":[],"language":{"extensions":["BangPatterns","DeriveGeneric","MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

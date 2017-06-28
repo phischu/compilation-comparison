@@ -1,0 +1,1 @@
+{"sliceID":2972734445105793370,"uses":[{"reference":{"builtinModule":"GHC.Types"},"usedName":{"typeName":{"identifier":"Int"}},"qualification":null}],"fragment":["stdRange :: (Int, Int)","stdRange = (1, 2147483562)"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}

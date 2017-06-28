@@ -1,1 +1,0 @@
-{"sliceID":1090343104806115234,"uses":[],"fragment":["type Listen w m a = m a -> m (a, w)"],"instances":[],"language":{"extensions":["MultiParamTypeClasses","NondecreasingIndentation","ExplicitForAll","PatternGuards"],"isInstance":false}}
